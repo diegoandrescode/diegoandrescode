@@ -1,5 +1,5 @@
 ## Diego García - Desarrollador FrontEnd
-___
+
 :computer: **Ingeniero de sistemas**
 
 ***Lenguajes:***
@@ -12,7 +12,7 @@ ___
 </div>
 <br>
 
-***Frameworks:***
+***Frameworks y librerias:***
 
 <div style="display: flex; align-items: center; gap: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap Logo" width="50">
